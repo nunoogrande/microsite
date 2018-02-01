@@ -1,0 +1,127 @@
+body {
+    background: #3b3b3b;
+}
+.cor-principal {
+    color: crimson;
+}
+.cor-principal2 {
+    color:white;
+}
+section .container .col-lg-12 {
+    background-color: #3b3b3b;
+    display: flex;
+    flex-direction: center;
+}
+.painel {
+    width: 400px;
+    height: 350px;
+    margin: 50px;
+    padding: 40px;
+    box-shadow: 0 0 100px 100px rgba(0, 0, 0, 0.5);
+    text-align: justify;
+    overflow: hidden;
+    color: white;
+}
+.painel2 {
+    width: 91%;
+    height: 400px;
+    margin: 50px;
+    padding: 40px;
+    box-shadow: 0 0 100px 100px rgba(0, 0, 0, 0.5);
+    text-align: justify;
+    overflow: hidden;
+    color: white;
+}
+.painel .painel_titulo {
+    color: steelblue;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.painel2 .painel_titulo2 {
+    color: steelblue;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.painel3 {
+    width: 400px;
+    height: 800px;
+    margin: 50px;
+    padding: 40px;
+    box-shadow: 0 0 100px 100px rgba(0, 0, 0, 0.5);
+    text-align: justify;
+    overflow: hidden;
+    color: white;
+}
+.painel3 .painel_titulo3 {
+    color: steelblue;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.painel4 {
+    width: 400px;
+    height: 670px;
+    margin: 50px;
+    padding: 40px;
+    box-shadow: 0 0 100px 100px rgba(0, 0, 0, 0.5);
+    text-align: justify;
+    overflow: hidden;
+    color: white;
+}
+.painel4 .painel_titulo4 {
+    color: steelblue;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.painel5 {
+    width: 91%;
+    height: 800px;
+    margin: 50px;
+    padding: 40px;
+    box-shadow: 0 0 100px 100px rgba(0, 0, 0, 0.5);
+    text-align: justify;
+    overflow: hidden;
+    color: white;
+}
+.painel5 .painel_titulo5 {
+    color: steelblue;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.flexcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+footer {
+    color: white;
+}
+footer .container .col-lg-12{
+    background-color: maroon;
+    padding: 60px;
+}
+.social-media {
+    padding: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+.social-media a:hover {
+    color: grey;
+}
+.button1 {
+    background-color:yellow;
+    width: 100px;
+    height:100px ;
+    color: green;
+}
+
+.button1:hover {
+    background-color: white;
+    
+    text-decoration-color: black
+}
